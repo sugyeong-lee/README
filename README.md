@@ -11,7 +11,17 @@
 
   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangBBang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang)](https://github.com/HwangBBang/github-readme-stats)
+[![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang)](https://github.com/HwangBBang/github-readme-stats
+waterscape2021@naver.com
+
+
+
+
+
+
+
+
+
 
 
 ## 📚 Log 📚
