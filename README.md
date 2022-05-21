@@ -12,11 +12,9 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangBBang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 ## 📚 Log 📚
+> [practice-oss-project](https://github.com/sugyeong-lee/practice-oss-project.git)
+> [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
 
-> [Python_Practice_2022](https://github.com/HwangBBang/Python_Practice_2022)  
-> [practice_oss_project](https://github.com/sugyeong-lee/practice-oss-project)
-> [Team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY)
-> 
 # 로그 기록 수정 필요!
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 
