@@ -16,16 +16,16 @@
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
 
 # 로그 기록 수정 필요!
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+#<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 
-> [Java_Practice_2022](https://github.com/HwangBBang/JAVA_Practice_2022)  
+#> [Java_Practice_2022](https://github.com/HwangBBang/JAVA_Practice_2022)  
 
-<img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+#<img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 
-> [Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022)
+#> [Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022)
 
 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+#<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 
-> [Mini_Project](https://github.com/HwangBBang/Mini_Project)  
+#> [Mini_Project](https://github.com/HwangBBang/Mini_Project)  
 
