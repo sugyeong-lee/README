@@ -12,7 +12,7 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangBBang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 ## 📚 Log 📚
-> [practice-oss-project](https://github.com/sugyeong-lee/practice-oss-project.git)
+> [practice-oss-project](https://github.com/sugyeong-lee/practice-oss-project.git)  
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
 
 # 로그 기록 수정 필요!
