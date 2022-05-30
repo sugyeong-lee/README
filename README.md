@@ -16,7 +16,4 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 
 > [Java_Practice_2022](https://github.com/HwangBBang/JAVA_Practice_2022)  
-
-<img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
