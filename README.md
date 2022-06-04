@@ -12,9 +12,6 @@
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
 
-
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-
 # lee-sugyeong
 
 ## 📚 Log 📚
