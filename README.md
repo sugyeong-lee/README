@@ -1,5 +1,5 @@
 ------------------------
- # [sugyeong-lee]
+ # 이수경
  ------------------------
  ## 안녕하세요.
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:653waterscape@hufs.ac.kr)](mailto:653waterscape@hufs.ac.kr) <a href = "[https://www.notion.so/2-804f85fc028e4319b4a8896434a0e20f](https://bit.ly/3w0sazA)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
@@ -15,6 +15,6 @@
 # lee-sugyeong
 
 ## 📚 Log 📚
-> [practice-oss-project](https://github.com/sugyeong-lee/practice-oss-project.git)  
-> [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
-> [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
+> [practice-oss-project](https://github.com/sugyeong-lee/practice-oss-project.git)    (fork)
+> []()
+> []()
