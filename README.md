@@ -16,5 +16,3 @@
 
 ### 📚 Log 📚
 > [practice-oss-project](https://github.com/sugyeong-lee/practice-oss-project.git)    (fork)
-> []()
-> []()
