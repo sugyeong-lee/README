@@ -7,10 +7,12 @@
  
 ## sugyeong-lee
 
-### 📚 Log 📚
+### 📚 Project 📚
+> [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
+> [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
+
+### 📚 Study 📚
 > [practice-oss-project](https://github.com/sugyeong-lee/practice-oss-project.git)  
-> [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
-> [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
 
 ## lee-sugyeong
 
