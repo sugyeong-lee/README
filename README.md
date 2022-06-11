@@ -1,13 +1,12 @@
 
-
-<img src="![KakaoTalk_20220610_212322415](https://user-images.githubusercontent.com/101383749/173064043-46cff481-cf8f-409e-acc2-f35a318f5c30.jpg)">
+![제페토1](https://user-images.githubusercontent.com/101383749/173183029-64260d68-039f-447b-887f-fef2c5a97f7b.jpg){: width="100%" height="100%"}
 
 ------------------------
  ## 이수경
  ------------------------
  ### 안녕하세요.
-<a href = "[https://www.notion.so/2-804f85fc028e4319b4a8896434a0e20f](https://bit.ly/3w0sazA)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
-</a><a href = "[https://blog.naver.com/h1009218](https://blog.naver.com/waterscape2021)" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> </a>
+#<a href = "[https://www.notion.so/2-804f85fc028e4319b4a8896434a0e20f](https://bit.ly/3w0sazA)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
+#</a><a href = "[https://blog.naver.com/h1009218](https://blog.naver.com/waterscape2021)" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> </a>
  
 ## sugyeong-lee
 
