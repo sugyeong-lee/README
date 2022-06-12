@@ -1,5 +1,5 @@
 
-![제페토1](https://user-images.githubusercontent.com/101383749/173183029-64260d68-039f-447b-887f-fef2c5a97f7b.jpg){: width="100%" height="100%"}
+![제페토1](https://user-images.githubusercontent.com/101383749/173183029-64260d68-039f-447b-887f-fef2c5a97f7b.jpg){: width="50%" height="50%"}
 
 ------------------------
  ## 이수경
