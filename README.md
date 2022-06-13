@@ -1,6 +1,6 @@
 
 ![제페토1](https://user-images.githubusercontent.com/101383749/173183029-64260d68-039f-447b-887f-fef2c5a97f7b.jpg){: width="50%" height="50%"}
-
+<img src="[이미지주소]"https://user-images.githubusercontent.com/101383749/173183029-64260d68-039f-447b-887f-fef2c5a97f7b.png" width="200" height="200"/>
 ------------------------
  ## 이수경
  ------------------------
