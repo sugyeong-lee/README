@@ -1,15 +1,13 @@
-![제페토 수정6](https://user-images.githubusercontent.com/101383749/173762624-17614138-6c44-4d3b-904d-2fff6ba1e999.jpg)
-
-------------------------
- # 이수경
+![제페토 수정2](https://user-images.githubusercontent.com/101383749/174117332-810981a6-0f38-4c6d-b923-47f604684c99.jpg)
+# 이수경
  ### 안녕하세요.
- ------------------------
  
 ## sugyeong-lee
 
 ### 📚 Project 📚
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
+> [git-github](https://github.com/sugyeong-lee/git-github.git)
 
 ### 📚 Study 📚
 #### 백준
