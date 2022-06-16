@@ -5,9 +5,9 @@
 ## sugyeong-lee
 
 ### 📚 Project 📚
-> [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
-> [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)
-> [git-github](https://github.com/sugyeong-lee/git-github.git)
+> [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)  
+> [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)  
+> [git-github](https://github.com/sugyeong-lee/git-github.git)  
 
 ### 📚 Study 📚
 #### 백준
