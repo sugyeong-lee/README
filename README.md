@@ -1,6 +1,3 @@
-![제페토 수정2](https://user-images.githubusercontent.com/101383749/174117332-810981a6-0f38-4c6d-b923-47f604684c99.jpg)
-# 이수경
- ### 안녕하세요.
 
 ## sugyeong-lee
 
