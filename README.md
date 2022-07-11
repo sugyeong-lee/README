@@ -22,3 +22,11 @@
 <code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code> <img title="Markdown" alt="markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 </br></br>
+
+
+<h2>:hammer_and_wrench: Tools I use</h2>
+<code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+</br></br>
