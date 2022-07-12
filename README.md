@@ -1,6 +1,10 @@
 
 ## sugyeong-lee
 
+<h2>:woman_technologist: About me</h2>
+<img width="70%" alt="Hello world! Pronouns: she/her; Country: Korea; Age: 21; Spoken Languages: Korean, Japanese, English; New Year Goals: Sharpen my skills in Programming;
+
+
 ### 📚 Project 📚
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)  
 
