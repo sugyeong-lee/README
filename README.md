@@ -5,6 +5,25 @@
 <h2>:woman_technologist: About me</h2>
 <img width="70%" alt="Hello world! Pronouns: she/her; Country: Korea; Age: 20; Spoken Languages: Korean, English, Spanish; New Year Goals: my skills in Programming, learning French, get a job; My Favorites: Rock Band: Pink Floyd;." src="https://github.com/Carol42/Carol42/blob/main/assets/about-me.png">
 
+<h2>:octocat: My GitHub Stats</h2>
+<details>
+<summary>General Stats</summary>
+<div>
+    <img alt="github repos" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits today" src="https://badges.pufler.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+</div>
+<div alig="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+    </a>
+</div>
+</details>
+<details>
+ <summary>Recent activity</summary>
+
+
 ### 📚 Project 📚
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)  
 
