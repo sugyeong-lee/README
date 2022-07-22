@@ -19,10 +19,6 @@
         <img height=180em src="https://github-readme-stats.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
     </a>
 </div>
-</details>
-<details>
- <summary>Recent activity</summary>
-
 
 ### 📚 Project 📚
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)  
