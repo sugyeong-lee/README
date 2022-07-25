@@ -1,10 +1,6 @@
 
 ## sugyeong-lee
 
-
-<h2>:woman_technologist: About me</h2>
-<img width="70%" alt="Hello world! Pronouns: she/her; Country: Korea; Age: 20; Spoken Languages: Korean, English, Spanish; New Year Goals: my skills in Programming, learning French, get a job; My Favorites: Rock Band: Pink Floyd;." src="https://github.com/Carol42/Carol42/blob/main/assets/about-me.png">
-
 <h2>:octocat: My GitHub Stats</h2>
 <details>
 <summary>General Stats</summary>
