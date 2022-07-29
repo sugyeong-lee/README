@@ -1,8 +1,8 @@
 
 ## sugyeong-lee
 
-<h2>:octocat: My GitHub Stats</h2>
-<details>
+<h2>  My GitHub Stats</h2>
+
 <summary>General Stats</summary>
 <div>
     <img alt="github repos" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
