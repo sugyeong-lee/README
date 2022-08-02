@@ -20,6 +20,7 @@
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)  
 
 ### 📚 Study 📚
+
 #### 백준
 > [practice-oss-project](https://github.com/sugyeong-lee/practice-oss-project.git)  
 #### AI
