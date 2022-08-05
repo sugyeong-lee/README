@@ -1,20 +1,7 @@
 
 ## sugyeong-lee
 
-<h2>  My GitHub Stats</h2>
-
-<summary>General Stats</summary>
-<div>
-    <img alt="github repos" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits today" src="https://badges.pufler.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
-</div>
-<div alig="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
-    </a>
-</div>
+<h2>  My Book
 
 ### 📚 Project 📚
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)  
