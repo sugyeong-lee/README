@@ -1,8 +1,6 @@
 
 ## sugyeong-lee
 
-<h2>  My Book
-
 ### 📚 Project 📚
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)  
 
