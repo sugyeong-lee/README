@@ -13,7 +13,7 @@
 https://www.notion.so/JavaScript-React-Study-2c6d5ac36b9b4ec292d0b508fbffae23#c71836d2274d4aafa1375d9ef05f061d
 #### Android
 https://www.notion.so/JavaScript-React-Study-2c6d5ac36b9b4ec292d0b508fbffae23#c71836d2274d4aafa1375d9ef05f061d
-#### Alg
+#### Algorithm
 
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
