@@ -5,16 +5,18 @@
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)  
 
 ### 📚 Study 📚
-#### Java
-
-#### JavaScript
-> [Notion](https://www.notion.so/Suza-s-Library-2dd4e6f7220d49d0b1946206c240e7e3)
 #### AI
 https://www.notion.so/JavaScript-React-Study-2c6d5ac36b9b4ec292d0b508fbffae23#c71836d2274d4aafa1375d9ef05f061d
 #### Android
 https://www.notion.so/JavaScript-React-Study-2c6d5ac36b9b4ec292d0b508fbffae23#c71836d2274d4aafa1375d9ef05f061d
 #### Algorithm
 https://www.notion.so/JavaScript-React-Study-2c6d5ac36b9b4ec292d0b508fbffae23#c71836d2274d4aafa1375d9ef05f061d
+#### Python
+> [Notion](https://www.notion.so/Suza-s-Library-2dd4e6f7220d49d0b1946206c240e7e3)
+#### Java
+> [Notion](https://www.notion.so/Suza-s-Library-2dd4e6f7220d49d0b1946206c240e7e3)
+#### JavaScript
+> [Notion](https://www.notion.so/Suza-s-Library-2dd4e6f7220d49d0b1946206c240e7e3)
 
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
