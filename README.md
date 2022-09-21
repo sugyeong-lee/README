@@ -12,11 +12,11 @@ https://www.notion.so/JavaScript-React-Study-2c6d5ac36b9b4ec292d0b508fbffae23#c7
 #### Algorithm
 https://www.notion.so/Algorithm-9ada0c35f3a844e1959f8e2283b8d241
 #### Python
-> [Notion](https://www.notion.so/Suza-s-Library-2dd4e6f7220d49d0b1946206c240e7e3)
+https://www.notion.so/Algorithm-9ada0c35f3a844e1959f8e2283b8d241
 #### Java
-> [Notion](https://www.notion.so/Suza-s-Library-2dd4e6f7220d49d0b1946206c240e7e3)
+https://www.notion.so/Algorithm-9ada0c35f3a844e1959f8e2283b8d241
 #### JavaScript
-> https://www.notion.so/JavaScript-a129c9af690f42dcb9342302f193f0c3
+https://www.notion.so/Algorithm-9ada0c35f3a844e1959f8e2283b8d241
 
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
