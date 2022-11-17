@@ -4,10 +4,6 @@
 ### 📚 Project 📚
 > [team-KKLHY](https://github.com/sugyeong-lee/team-KKLHY.git)  
 
-
-
-
-
 ### 📚 Study 📚
 #### AI
 https://www.notion.so/AI-8230ed4e112a4216be580ce60ffbef12
