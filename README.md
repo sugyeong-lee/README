@@ -17,6 +17,19 @@ https://www.notion.so/Algorithm-9ada0c35f3a844e1959f8e2283b8d241
 https://www.notion.so/Algorithm-9ada0c35f3a844e1959f8e2283b8d241
 #### JavaScript
 https://www.notion.so/JavaScript-a129c9af690f42dcb9342302f193f0c3
+### 📚 Study 📚
+#### AI
+https://www.notion.so/AI-8230ed4e112a4216be580ce60ffbef12
+#### Android
+https://www.notion.so/JavaScript-React-Study-2c6d5ac36b9b4ec292d0b508fbffae23#c71836d2274d4aafa1375d9ef05f061d
+#### Algorithm
+https://www.notion.so/Algorithm-9ada0c35f3a844e1959f8e2283b8d241
+#### Python
+https://www.notion.so/Algorithm-9ada0c35f3a844e1959f8e2283b8d241
+#### Java
+https://www.notion.so/Algorithm-9ada0c35f3a844e1959f8e2283b8d241
+#### JavaScript
+https://www.notion.so/JavaScript-a129c9af690f42dcb9342302f193f0c3
    
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
