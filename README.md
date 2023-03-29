@@ -18,6 +18,8 @@ https://www.notion.so/Algorithm-9ada0c35f3a844e1959f8e2283b8d241
 #### JavaScript
 https://www.notion.so/JavaScript-a129c9af690f42dcb9342302f193f0c3
 ### 📚 Study 📚
+#### ecurity
+https://www.notion.so/AI-8230ed4e112a4216be580ce60ffbef12
 #### AI
 https://www.notion.so/AI-8230ed4e112a4216be580ce60ffbef12
 #### Android
